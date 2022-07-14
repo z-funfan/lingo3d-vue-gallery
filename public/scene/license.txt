@@ -1,0 +1,11 @@
+Model Information:
+* title:	LowPoly Cartoon Shanghai
+* source:	https://sketchfab.com/3d-models/lowpoly-cartoon-shanghai-18da454727524cfe9c2b61bc5f7e3c34
+* author:	Michael Zhang (https://sketchfab.com/beyond.zht)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "LowPoly Cartoon Shanghai" (https://sketchfab.com/3d-models/lowpoly-cartoon-shanghai-18da454727524cfe9c2b61bc5f7e3c34) by Michael Zhang (https://sketchfab.com/beyond.zht) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
